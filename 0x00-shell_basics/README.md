@@ -1,1 +1,1 @@
-second readme
+a script that print path name
